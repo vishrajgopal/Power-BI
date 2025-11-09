@@ -126,22 +126,22 @@ The Power BI report is broken down into three main pages:
 
 #### Holiday Analytics- Main Page
 
-![Booking Analytics](ScreenShots/Holiday_Analysis_Main_Page.PNG)
+![Holiday Analytics](ScreenShots/Holiday_Analysis_Main_Page.PNG)
 
 -   **Holiday Impact:** Analyzes the effect of holidays on booking and revenue patterns using charts and tables.
 -   **Commentary:** Delivers actionable insights related to holiday performance.
 
 #### Revenue by Holidays
 
-![Booking Analytics](ScreenShots/Revenue_by_Holidays.PNG)
+![Holiday Analytics](ScreenShots/Revenue_by_Holidays.PNG)
 
 #### Revenue Trend with Holiday Overlay
 
-![Booking Analytics](ScreenShots/Revenue_Trend_Holiday_Overlay.PNG)
+![Hliday Analytics](ScreenShots/Revenue_Trend_Holiday_Overlay.PNG)
 
 #### Holiday Booking Lead Time
 
-![Booking Analytics](ScreenShots/Holiday_Booking_Lead_Time.PNG)
+![Holiday Analytics](ScreenShots/Holiday_Booking_Lead_Time.PNG)
 
 -   **Interactivity:** Provides filter and navigation buttons for user-driven insights.
 
