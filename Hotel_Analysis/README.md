@@ -80,7 +80,13 @@ The Power BI report is broken down into three main pages:
 
 ### 1. Executive Summary
 
-![Executive Summary](ScreenShots/Exec_Summary.PNG)
+#### Executive Summary - Main Page
+
+![Executive Summary](ScreenShots/Executive_Summary_Main_Page.PNG)
+
+#### Executive Summary - Filter Page
+
+![Executive Summary](ScreenShots/Executive_Summary_Filter_Page.PNG)
 
 -   **KPIs:** Displays key performance indicators with growth rates and conditional formatting.
 -   **Revenue Table:** Shows a revenue split with a parameter to dynamically switch the displayed column.
@@ -90,13 +96,64 @@ The Power BI report is broken down into three main pages:
 
 ### 2. Booking Analytics
 
+#### Booking Analytics- Main Page
+
+![Booking Analytics](ScreenShots/Booking_Analysis_Main_Page.PNG)
+
 -   **Booking Patterns:** Analyzes booking patterns using various charts.
 -   **Dynamic Analysis:** A parameter allows users to select different dimensions to analyze booking patterns.
 -   **Commentary:** Offers actionable insights into booking trends.
+
+#### Cancellation Analysis
+
+![Booking Analytics](ScreenShots/Booking_Analysis_Cancellation_Page.PNG)
+
+#### Lead Time Analysis
+
+![Booking Analytics](ScreenShots/Booking_Analysis_Lead_Time_Page.PNG)
+
+#### Booking Mix Analysis
+
+![Booking Analytics](ScreenShots/Booking_Analysis_BookingMix_Page.PNG)
+
+#### Length of Stay Analysis
+
+![Booking Analytics](ScreenShots/Booking_Analysis_LengthofStay_Page.PNG)
+
 -   **Interactivity:** Includes filter buttons and navigation buttons for detailed exploration.
 
 ### 3. Holiday Analytics
 
+#### Holiday Analytics- Main Page
+
+![Holiday Analytics](ScreenShots/Holiday_Analysis_Main_Page.PNG)
+
 -   **Holiday Impact:** Analyzes the effect of holidays on booking and revenue patterns using charts and tables.
 -   **Commentary:** Delivers actionable insights related to holiday performance.
+
+#### Revenue by Holidays
+
+![Holiday Analytics](ScreenShots/Revenue_by_Holidays.PNG)
+
+#### Revenue Trend with Holiday Overlay
+
+![Hliday Analytics](ScreenShots/Revenue_Trend_Holiday_Overlay.PNG)
+
+#### Holiday Booking Lead Time
+
+![Holiday Analytics](ScreenShots/Holiday_Booking_Lead_Time.PNG)
+
 -   **Interactivity:** Provides filter and navigation buttons for user-driven insights.
+
+You can view how the dashboard works in the below videos.
+
+### Executive Summary Video
+[Watch Video](Videos/Exececutive_Summary_Video.mp4)
+
+### Hotel Booking Analysis Video
+[Watch Video](Videos/Hotel_Booking_Analysis_Video.mp4)
+
+### Hotel Holiday Analytics Video
+[Watch Video](Videos/Hotel_Holiday_Analytics_Video.mp4)
+
+If you want to view the report/dashboard in detail, it is saved in the folder.
