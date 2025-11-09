@@ -156,4 +156,4 @@ You can view how the dashboard works in the below videos.
 ### Hotel Holiday Analytics Video
 [Watch Video](Videos/Hotel_Holiday_Analytics_Video.mp4)
 
-If you want to view the report/dashboard in detail, it is saved in the folder.
+If you want to view the report/dashboard in detail, it is saved in the folder PowerBI_Dashboard
